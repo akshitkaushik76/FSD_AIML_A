@@ -11,6 +11,9 @@ const Home = () => {
         <li>
         <Link to="/stopwatch">stopwatch app</Link>  
         </li>
+        <li>
+        <Link to="/refEx">refex</Link>  
+        </li>
       </ul>
     </div>
   );
